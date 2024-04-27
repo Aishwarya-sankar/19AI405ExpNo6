@@ -114,9 +114,13 @@ def minimax(game)
 end
 ```
 ### Program:
+```
+Developed By: AISHWARYA S
+Register No : 212222100003
+```
 ```Python
-import time                # Developed By: AISHWARYA S
-class Game:                # Register No : 212222100003
+import time                
+class Game:                
     def __init__(self):
         self.initialize_game()
     def initialize_game(self):
